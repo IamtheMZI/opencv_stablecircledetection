@@ -1,0 +1,3 @@
+/home/iamthemzi/workspace/OD_DFT/CMakeFiles/edit_cache.dir
+/home/iamthemzi/workspace/OD_DFT/CMakeFiles/rebuild_cache.dir
+/home/iamthemzi/workspace/OD_DFT/CMakeFiles/ObjDet.dir
